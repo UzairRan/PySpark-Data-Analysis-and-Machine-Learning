@@ -1,7 +1,5 @@
 # PySpark-Data-Analysis-and-Machine-Learning
 
-# PySpark Data Analysis and Machine Learning
-
 Welcome to the **PySpark Data Analysis and Machine Learning** repository! This project demonstrates a comprehensive approach to data analysis and machine learning using PySpark. It covers tasks such as data preprocessing, exploratory data analysis, visualization, and model building.
 
 ## 📚 Project Overview
